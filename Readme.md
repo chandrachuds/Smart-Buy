@@ -6,7 +6,7 @@
 <h1 align="center">Smart Buy</h1>
 
   <p align="center">
-    Smart Buy helps users to Compare Products across different E-Commerce websites like Amazon & Flipkart.It works by dynamically fetching updated prices, features, reviews, descriptions, and all essential information on various products from different e-commerce sites.
+    Smart Buy helps users to Compare Products across different E-Commerce websites like Amazon & Flipkart.It works by dynamically fetching updated prices, features, reviews, descriptions, and all essential information on various products from different e-commerce websites.
     <br />
     <a href="https://github.com/AshutoshJawanpuria/Smart-Buy.git"><strong>Explore the docs »</strong></a>
     <br />
